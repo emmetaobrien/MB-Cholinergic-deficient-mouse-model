@@ -1,0 +1,305 @@
+{
+  "title": "Brainstem cholinergic-deficient mouse model dataset",
+  "description": "Male mice and their wild-type controls were evaluated at 7-10 months of age using the 5-Choice Serial Reaction Time (5-CSRT) task to assess attention. Immediately after (approximately at 9-12 months of age) these same mice were evaluated using the Extinction task to assess their ability to extinguish a response. A different cohort of male mice and their wild-type controls were evaluated at 11-13 months of age in the Pairwise visual discrimination (PVD) task to assess discrimination and reversal learning. Immediately after (still within 11-13 months of age) these same mice were evaluated using the Pairwise Associate Learning (PAL) task to assess learning and memory.",
+  "identifier": {
+    "identifier": "https://doi.org/10.1096/fj.201802108R",
+    "identifierSource": "https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.201802108R"
+  },
+  "dates": [
+    {
+      "date": "2019-06-29 00:00:00",
+      "type": {
+        "value": "this dataset was published in june 2019 in the journal of federation of american societies for experimental biology "
+      }
+    }
+  ],
+  "creators": [
+    {
+      "fullName": "Dr. Marco Prado",
+      "firstName": "Marco",
+      "middleInitial": "",
+      "lastName": "Prado",
+      "email": "mprado@robarts.ca",
+      "affiliations": [
+        {
+          "name": "Robarts Research Institute, The University of Western Ontario"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Cognitive Behavioral Data"
+      }
+    }
+  ],
+  "version": "1",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC0"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV"
+      ],
+      "size": 5,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://mousebytes.ca/data-extraction",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Selective decrease of cholinergic signaling from pedunculopontine and laterodorsal tegmental nuclei has little impact on cognition but markedly increases susceptibility to stress",
+      "publicationVenue": "the Journal of the Federation American Societies for Experimental Biology (FASEB)",
+      "authors": [
+        {
+          "fullName": "Helena Janickova",
+          "firstName": "Helena",
+          "middleInitial": "",
+          "lastName": "Janickova",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Ornela Kljakic",
+          "firstName": "Ornela",
+          "middleInitial": "",
+          "lastName": "Kljakic",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Kaie Rosborough",
+          "firstName": "Kaie",
+          "middleInitial": "",
+          "lastName": "Rosborough",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Sanda Raulic",
+          "firstName": "Sanda",
+          "middleInitial": "",
+          "lastName": "Raulic",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Sara Matovic ",
+          "firstName": "Sara",
+          "middleInitial": "",
+          "lastName": "Matovic ",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": " Lisa Saksida",
+          "firstName": "Lisa",
+          "middleInitial": "",
+          "lastName": "Saksida",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Physiology and Pharmacology, Schulich School of Medicine and Dentistry, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Timothy Bussey ",
+          "firstName": "Timothy",
+          "middleInitial": "",
+          "lastName": "Bussey",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Physiology and Pharmacology, Schulich School of Medicine and Dentistry, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Wataru Inoue",
+          "firstName": "Wataru",
+          "middleInitial": "",
+          "lastName": "Inoue",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Physiology and Pharmacology, Schulich School of Medicine and Dentistry, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Vania Prado",
+          "firstName": "Vania",
+          "middleInitial": "",
+          "lastName": "Prado",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Anatomy and Cell Biology, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Marco Prado",
+          "firstName": "Marco",
+          "middleInitial": "",
+          "lastName": "Prado",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, The University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Anatomy and Cell Biology, The University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "description": "",
+          "date": "2019-07-29 00:00:00",
+          "type": {
+            "value": "this dataset was published in june 2019 in the journal of federation of american societies for experimental biology "
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "https://doi.org/10.1096/fj.201802108R",
+        "identifierSource": "https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.201802108R"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Cognitive behavioral data from cholinergic-deficient mouse model"
+    }
+  ],
+  "keywords": [
+    {
+      "value": "attention"
+    },
+    {
+      "value": "touchscreen"
+    },
+    {
+      "value": "cognitive flexibility"
+    },
+    {
+      "value": "Parkinson's disease"
+    },
+    {
+      "value": "VAChT"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "53"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Robarts Research Institute, University of Western Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "London"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Marco Prado, mprado@robarts.ca"
+        }
+      ]
+    },
+    {
+      "category": "derivedFrom",
+      "values": [
+        {
+          "value": "Touchscreen Technology"
+        }
+      ]
+    }
+  ]
+}
