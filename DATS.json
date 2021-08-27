@@ -193,10 +193,9 @@
       ],
       "dates": [
         {
-          "description": "",
           "date": "2019-07-29 00:00:00",
           "type": {
-            "value": "this dataset was published in june 2019 in the journal of federation of american societies for experimental biology "
+            "value": "publication date"
           }
         }
       ],
