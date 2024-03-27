@@ -30,7 +30,8 @@
   "types": [
     {
       "information": {
-        "value": "Cognitive Behavioral Data"
+        "value": "Cognitive Behavioral Data",
+		"valueIRI": "http://uri.interlex.org/ilx_0102339"
       }
     }
   ],
